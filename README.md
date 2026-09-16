@@ -131,4 +131,4 @@ Sato OS is listed in [satohubai/onchain-agents](https://github.com/satohubai/onc
 
 ---
 
-<sub>⚠️ Experimental software that signs real onchain transactions under caps you set — start small. Screenshots are the real product running on seeded demo data; figures are wallet-observed demo values, not performance claims. Nothing here is financial advice, and no agent is presented as profitable or safe. © 2026 Prime Signal LLC · proprietary, source-available. Built by [Sato Hub](https://satohub.ai?utm_source=github&utm_medium=index&utm_campaign=sato-os) — the builder, library & Agent Passport behind the OS.</sub>
+<sub>⚠️ Experimental software that signs real onchain transactions under caps you set — start small. Screenshots are the real product running on seeded demo data; figures are wallet-observed demo values, not performance claims. Nothing here is financial advice, and no agent is presented as profitable or safe. © 2026 Sato Hub · proprietary, source-available. Built by [Sato Hub](https://satohub.ai?utm_source=github&utm_medium=index&utm_campaign=sato-os) — the builder, library & Agent Passport behind the OS.</sub>
